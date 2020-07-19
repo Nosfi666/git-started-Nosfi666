@@ -1,0 +1,3 @@
+The file contains the first four sentences of "Lorem Ipsum".
+The commit message has coherent form and style (e.g. "Fix broken link on contact page").
+There is no typo in the commit message.
